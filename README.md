@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-**Account Management & Customer Success leader who builds practical AI systems.**
+** Account Management & Customer Success & Sales professional who builds practical AI systems.**
 
 I spent my career on the business side of B2B: owning client relationships, renewals and growth, most recently as **VP Account Management at Cint Germany**. Over the last year I went hands-on with AI. I designed and run my own AI platform on a €300 home server: a RAG knowledge base, research and chat tools, and a multi-agent assistant, all with production-style security, monitoring and cost control.
 
