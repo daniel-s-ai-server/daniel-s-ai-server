@@ -2,7 +2,7 @@
 
 ** Account Management & Customer Success & Sales professional who builds practical AI systems.**
 
-I spent my career on the business side of B2B: sales, key account management and business development. Over the last year I went hands-on with AI. I designed and run my own AI platform on a €300 home server: a RAG knowledge base, research and chat tools, and a multi-agent assistant, all with production-style security, monitoring and cost control.
+I spent my career on the business side of B2B: sales, key account management and customer success. Over the last year I went hands-on with AI. I designed and run my own AI platform on a €300 home server: a RAG knowledge base, research and chat tools, and a multi-agent assistant, all with production-style security, monitoring and cost control.
 
 That combination is what I bring to a team. I understand what customers and stakeholders actually need, and I know what it takes to turn AI into something reliable, secure and affordable.
 
