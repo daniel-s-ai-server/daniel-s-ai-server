@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-**Account Management & Customer Success professional who builds practical AI systems.**
+**Sales, Account Management & Customer Success professional who builds practical AI systems.**
 
 I spent my career on the business side of B2B: sales, key account management and customer success. Over the last year I went hands-on with AI. I designed and run my own AI platform on a €300 home server: a RAG knowledge base, research and chat tools, n8n automations and a multi-agent setup that mixes open-weight and frontier models, all with production-style security, monitoring and cost control.
 
